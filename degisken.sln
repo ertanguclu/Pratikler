@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HataYonetimi", "HataYonetim
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "If-Else-If", "If-Else-If\If-Else-If.csproj", "{4001A902-6A7E-4F9D-82D8-80E4E3D318BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch-Case", "Switch-Case\Switch-Case.csproj", "{9FADE576-8CDF-4B3F-A5D9-23A1CB9C370A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{4001A902-6A7E-4F9D-82D8-80E4E3D318BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4001A902-6A7E-4F9D-82D8-80E4E3D318BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4001A902-6A7E-4F9D-82D8-80E4E3D318BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FADE576-8CDF-4B3F-A5D9-23A1CB9C370A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FADE576-8CDF-4B3F-A5D9-23A1CB9C370A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FADE576-8CDF-4B3F-A5D9-23A1CB9C370A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FADE576-8CDF-4B3F-A5D9-23A1CB9C370A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
