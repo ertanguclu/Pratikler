@@ -19,13 +19,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Donguler", "Donguler\Dongul
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Donguler-While-Foreach", "Donguler-While-Foreach\Donguler-While-Foreach.csproj", "{F96C9787-BE70-4421-A838-34D20DCC0927}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diziler", "Diziler\Diziler.csproj", "{05E5E78E-1E4E-4B88-A985-AB22A6ED5CA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Diziler", "Diziler\Diziler.csproj", "{05E5E78E-1E4E-4B88-A985-AB22A6ED5CA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraySinifiMetodları", "ArraySinifiMetodları\ArraySinifiMetodları.csproj", "{E51A2FAC-CD9F-4438-A25C-BFC638E5E8A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraySinifiMetodları", "ArraySinifiMetodları\ArraySinifiMetodları.csproj", "{E51A2FAC-CD9F-4438-A25C-BFC638E5E8A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotlar.csproj", "{E88AFE86-021C-491D-A244-8BC7B03F0C82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar", "Metotlar\Metotlar.csproj", "{E88AFE86-021C-491D-A244-8BC7B03F0C82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetotlarOverloading", "MetotlarOverloading\MetotlarOverloading.csproj", "{44E14117-13D7-4990-A419-16E2D19BA904}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetotlarOverloading", "MetotlarOverloading\MetotlarOverloading.csproj", "{44E14117-13D7-4990-A419-16E2D19BA904}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveExtensionMetotlar", "RecursiveExtensionMetotlar\RecursiveExtensionMetotlar.csproj", "{717B11A7-213C-4FDC-B489-97EBAD2A5A2B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{44E14117-13D7-4990-A419-16E2D19BA904}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44E14117-13D7-4990-A419-16E2D19BA904}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44E14117-13D7-4990-A419-16E2D19BA904}.Release|Any CPU.Build.0 = Release|Any CPU
+		{717B11A7-213C-4FDC-B489-97EBAD2A5A2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{717B11A7-213C-4FDC-B489-97EBAD2A5A2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{717B11A7-213C-4FDC-B489-97EBAD2A5A2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{717B11A7-213C-4FDC-B489-97EBAD2A5A2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
