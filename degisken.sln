@@ -31,6 +31,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecursiveExtensionMetotlar"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HazirMetotLarString", "HazirMetotLarString\HazirMetotLarString.csproj", "{DC042044-2399-4DD6-9B72-D37E90FFC87F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HazirMetotlarDateTime", "HazirMetotlarDateTime\HazirMetotlarDateTime.csproj", "{2FDD55E1-ACC6-4BA2-B673-EF521A9B1303}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{DC042044-2399-4DD6-9B72-D37E90FFC87F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC042044-2399-4DD6-9B72-D37E90FFC87F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC042044-2399-4DD6-9B72-D37E90FFC87F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FDD55E1-ACC6-4BA2-B673-EF521A9B1303}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FDD55E1-ACC6-4BA2-B673-EF521A9B1303}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FDD55E1-ACC6-4BA2-B673-EF521A9B1303}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FDD55E1-ACC6-4BA2-B673-EF521A9B1303}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
