@@ -41,6 +41,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dictionary", "dictionary\di
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinifKavrami", "SinifKavrami\SinifKavrami.csproj", "{26DC3138-E26D-400A-9ABC-9A8C66572F43}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorMetotlar", "ConstructorMetotlar\ConstructorMetotlar.csproj", "{716D107C-9048-4B76-9E37-651D23094CCA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{26DC3138-E26D-400A-9ABC-9A8C66572F43}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26DC3138-E26D-400A-9ABC-9A8C66572F43}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26DC3138-E26D-400A-9ABC-9A8C66572F43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{716D107C-9048-4B76-9E37-651D23094CCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{716D107C-9048-4B76-9E37-651D23094CCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{716D107C-9048-4B76-9E37-651D23094CCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{716D107C-9048-4B76-9E37-651D23094CCA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
