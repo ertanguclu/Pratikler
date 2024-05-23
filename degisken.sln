@@ -37,7 +37,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericList", "GenericList\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayListt", "ArrayList\ArrayListt.csproj", "{DEEE20F4-A41E-4B07-88C6-62E5A1A67498}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dictionary", "dictionary\dictionary.csproj", "{D40E320F-3E4B-40E9-B312-42194C5C31FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dictionary", "dictionary\dictionary.csproj", "{D40E320F-3E4B-40E9-B312-42194C5C31FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinifKavrami", "SinifKavrami\SinifKavrami.csproj", "{26DC3138-E26D-400A-9ABC-9A8C66572F43}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{D40E320F-3E4B-40E9-B312-42194C5C31FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D40E320F-3E4B-40E9-B312-42194C5C31FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D40E320F-3E4B-40E9-B312-42194C5C31FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26DC3138-E26D-400A-9ABC-9A8C66572F43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26DC3138-E26D-400A-9ABC-9A8C66572F43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26DC3138-E26D-400A-9ABC-9A8C66572F43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26DC3138-E26D-400A-9ABC-9A8C66572F43}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
