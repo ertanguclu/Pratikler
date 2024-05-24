@@ -45,11 +45,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConstructorMetotlar", "Cons
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encapsulation", "Encapsulation\Encapsulation.csproj", "{646ABD5B-6BB3-4DC3-A946-511A12950DD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticSinifVeUyeler", "StaticSinifVeUyeler\StaticSinifVeUyeler.csproj", "{0C6EDC19-E882-46A4-8A49-94880DF33369}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StaticSinifVeUyeler", "StaticSinifVeUyeler\StaticSinifVeUyeler.csproj", "{0C6EDC19-E882-46A4-8A49-94880DF33369}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructKavrami", "StructKavrami\StructKavrami.csproj", "{DB58E119-E2AB-4F62-8BC1-7082B0D51526}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StructKavrami", "StructKavrami\StructKavrami.csproj", "{DB58E119-E2AB-4F62-8BC1-7082B0D51526}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp-Enum", "Csharp-Enum\Csharp-Enum.csproj", "{F754416B-DE1C-4810-B7CD-0C3D811F0468}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Csharp-Enum", "Csharp-Enum\Csharp-Enum.csproj", "{F754416B-DE1C-4810-B7CD-0C3D811F0468}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{69F4511B-F854-492C-AD49-33E5D5E85E69}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{F754416B-DE1C-4810-B7CD-0C3D811F0468}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F754416B-DE1C-4810-B7CD-0C3D811F0468}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F754416B-DE1C-4810-B7CD-0C3D811F0468}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69F4511B-F854-492C-AD49-33E5D5E85E69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69F4511B-F854-492C-AD49-33E5D5E85E69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69F4511B-F854-492C-AD49-33E5D5E85E69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69F4511B-F854-492C-AD49-33E5D5E85E69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
